@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="navigation_header">Navigation header</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="den">Den of Developers</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">home</string>
+    <string name="inbox">inbox</string>
+</resources>
